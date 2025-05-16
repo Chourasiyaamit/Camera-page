@@ -1,2 +1,2 @@
 # Camera Page
-This page is created by Amit.
+This page is created by Amit Chourasiya.
